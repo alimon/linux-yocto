@@ -23,6 +23,7 @@
 
 #include "8250.h"
 
+#define SERIAL_DEBUG_PNP 1
 #define UNKNOWN_DEV 0x3000
 #define CIR_PORT	0x0800
 
